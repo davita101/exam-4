@@ -7,4 +7,4 @@ def main(s, p):
         return True
     return False
 print(main("12", "12"))
-print(main("12", "21"))
+print(main("12q", "21"))
